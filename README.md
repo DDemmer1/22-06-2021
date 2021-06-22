@@ -9,7 +9,7 @@ In dieser Aufgabe soll exemplarisch ein 2D-Array erzeugt werden zu verdeutlichen
 
 - Erstellt eine Klasse ```Block``` mit den Attributen:
   - ```int blockX```
-	- ```int blockY```
+  - ```int blockY```
 - ```Block``` soll eine ```toString()``` Methode haben, die  ```int blockX```, ```int blockY``` ausgibt
 - Der ```Block``` soll direkt mit  ```int blockX```, ```int blockY``` im Konstruktor befüllt werden
 
